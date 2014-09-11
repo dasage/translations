@@ -4,57 +4,64 @@
 // line blank. Lines starting with '//' are comments - DO NOT translate
 // them. Special characters such as [ and %%s symbolise things within the
 // game, so should be left in an appropriate place in the message.
-//
+// 
 // ** Translation settings are below
 // ** Leave them as "DEFAULT" to use the game settings
+// The normal font to use - DEFAULT or font number
 //#NormalFont=DEFAULT
+// The speech font to use - DEFAULT or font number
 //#SpeechFont=DEFAULT
+// Text direction - DEFAULT, LEFT or RIGHT
 //#TextDirection=DEFAULT
+//  
+// ** REMEMBER, WRITE YOUR TRANSLATION IN THE EMPTY LINES, DO
 // ** NOT CHANGE THE EXISTING TEXT.
-My grappling hook launcher, made to look like an umbrella.
-Meu lançador de arpão, disfarçado como um guarda-chuva.
+scrnshot.pcx
+
+CHARACTER
+Meu lanÃ§ador de arpÃ£o, disfarÃ§ado como um guarda-chuva.
 These windows are all so dirty, it's impossible to see through them clearly.
-Essas janelas estão sujas demais, é difícil ver através delas.
+Essas janelas estÃ£o sujas demais, Ã© difÃ­cil ver atravÃ©s delas.
 Unless I'm very much mistaken, it's Simone Taylor, television personality.
-a menos que eu esteja enganado, esta é Simone Taylor, uma celebridade da televisão.
+a menos que eu esteja enganado, esta Ã© Simone Taylor, uma celebridade da televisÃ£o.
 Philip Harty, a rather wild-eyed young man in a leather jacket and khakis.
-Philip Harty, um jovem de um olhar feroz usando jaqueta de couro e calças cáqui.
+Philip Harty, um jovem de um olhar feroz usando jaqueta de couro e calÃ§as cÃ¡qui.
 Jim can't be older than sixteen, and he's wearing some mutation of a school uniform.
-Jim não pode ter mais de dezesseis anos, e está usando alguma variação de um uniforme escolar.
+Jim nÃ£o pode ter mais de dezesseis anos, e estÃ¡ usando alguma variaÃ§Ã£o de um uniforme escolar.
 It's a rather cheap, overused metal detector.
 Um detector de metais, velho e barato. 
 I can pick any lock in under five minutes with these beauties.
 eu posso abrir qualquer fechadura em menos de cinco minutos com essas belezinhas.
 It's a well-polished old two-man saw.
-um serrote manual pra ser usado por duas pessoas. Está bem polido.
+um serrote manual pra ser usado por duas pessoas. EstÃ¡ bem polido.
 An old-fashioned miner's pickaxe.
 uma antiquada picareta de minerador.
 It's a very old Victorian-era stuffed bear.
-É um urso empalhado muito velho, da era vitoriana.
+Ã‰ um urso empalhado muito velho, da era vitoriana.
 It's a length of slim extension cord.
-É um cabo de extensão fino.
+Ã‰ um cabo de extensÃ£o fino.
 An ordinary twig from the garden.
 Um galho comum do jardim.
 A length of wire tied to a stick.
-Um pedaço de fio amarrado a um graveto.
+Um pedaÃ§o de fio amarrado a um graveto.
 A length of wire tied to a teddy bear.
-Um pedaço de fio amarrado a um ursinho de pelúcia.
+Um pedaÃ§o de fio amarrado a um ursinho de pelÃºcia.
 A teddy bear tied to a piece of stick with extension cord.
-Um ursinho de pelúcia amarrado à um graveto por um cabo de extensão. 
+Um ursinho de pelÃºcia amarrado Ã  um graveto por um cabo de extensÃ£o. 
 Should always carry an emergency lockpick.
-Deve-se sempre carregar um lockpick de emergência.
+Deve-se sempre carregar um lockpick de emergÃªncia.
 Conversation is probably not on his mind right now.
-provavelmente, conversar é a ultima coisa que ele está pensado agora.
+provavelmente, conversar Ã© a ultima coisa que ele estÃ¡ pensado agora.
 I'd rather not go toe-to-toe with a machete.
-Preferiria não enfrentar uma machete só com as mãos.
+Preferiria nÃ£o enfrentar uma machete sÃ³ com as mÃ£os.
 He's just like he was in my dream... welding mask, apron, dripping with blood...
-Ele é igual ao homem do meu sonho... máscara de soldagem, avental, gotejando sangue...
+Ele Ã© igual ao homem do meu sonho... mÃ¡scara de soldagem, avental, gotejando sangue...
 It's an ordinary old-fashioned welding mask, spotted with blood.
-É uma simples e antiquada máscara de soldagem, manchada de sangue.
+Ã‰ uma simples e antiquada mÃ¡scara de soldagem, manchada de sangue.
 A blacksmith's leather apron.
 Um avental de ferreiro, feito de couro.
 The machete is absolutely coated in crimson.
-A machete está totalmente ensopada de vermelho.
+A machete estÃ¡ totalmente ensopada de vermelho.
 A pair of tough, hard-wearing scissors.
 um par de tesouras robustas.
 A thin strip of leather I cut from the apron.
@@ -62,13 +69,13 @@ Uma fina tira de couro eu corto do avental.
 The machete has a strip of leather tied to one end.
 A machete tem uma tira de couro amarrada em uma das extremidades.
 The mask is tied to a strip of leather.
-A máscara está amarrada à uma tira de couro.
+A mÃ¡scara estÃ¡ amarrada Ã  uma tira de couro.
 The mask is tied to the machete with leather.
-a máscara está amarrada à machete pela tira de couro.
+a mÃ¡scara estÃ¡ amarrada Ã  machete pela tira de couro.
 The heavily decayed remains of Sir Roderick DeFoe's unwanted son.
-São os restos do filho indesejado de Sir Roderick DeFoe, em péssimo estado de conservação.
+SÃ£o os restos do filho indesejado de Sir Roderick DeFoe, em pÃ©ssimo estado de conservaÃ§Ã£o.
 Sorry, not now.
-Desculpe-me, agora não.
+Desculpe-me, agora nÃ£o.
 Restore
 Continuar
 Cancel
@@ -78,11 +85,11 @@ Selecione um jogo para continuar:
 Save
 Gravar
 Type a name to save as:
-Dê um nome à gravação:
+DÃª um nome Ã  gravaÃ§Ã£o:
 Replace
 Substituir
 The save directory is full. You must replace an existing game:
-O diretório de gravações está cheio. Você deve substituir uma gravação antiga por essa:
+O diretÃ³rio de gravaÃ§Ãµes estÃ¡ cheio. VocÃª deve substituir uma gravaÃ§Ã£o antiga por essa:
 Replace:
 Substituir:
 With:
@@ -94,123 +101,123 @@ Jogar
 Are you sure you want to quit?
 Tem certeza que deseja sair?
 I'm not carrying anything.
-Não estou levando nada.
+NÃ£o estou levando nada.
 Aren't I already talking to myself?
-Já não estou eu falando comigo mesmo?
+JÃ¡ nÃ£o estou eu falando comigo mesmo?
 I'm not sure what to do with myself.
-Não sei mais o que fazer comigo.
+NÃ£o sei mais o que fazer comigo.
 That's me, Trilby.
 Sou eu, Trilby.
 That's all I wanted to know.
 Era tudo que eu queria saber.
 What do you know about the mansion?
-O que você sabe sobre a mansão?
+O que vocÃª sabe sobre a mansÃ£o?
 How did you come to be here?
-Como você parou aqui?
+Como vocÃª parou aqui?
 Tell me a bit about yourself.
-Fale me um pouco sobre você.
+Fale me um pouco sobre vocÃª.
 What happened to your camera crew?
 O que aconteceu com sua equipe de filmagem?
 See you later.
-Até logo.
+AtÃ© logo.
 Do you know where the others are?
-Você sabe onde está os outros?
+VocÃª sabe onde estÃ¡ os outros?
 Sleep well?
 Dormiu bem?
 Did you break the lock on the door?
-Você arrombou a porta?
+VocÃª arrombou a porta?
 So I take it AJ hasn't turned up yet.
-Eu suponho que AJ ainda não apareceu.
+Eu suponho que AJ ainda nÃ£o apareceu.
 What do you know about AJ?
-O que você sabe sobre AJ?
+O que vocÃª sabe sobre AJ?
 How're you holding up?
-Como você está lidando com a situação?
+Como vocÃª estÃ¡ lidando com a situaÃ§Ã£o?
 That's all.
-Era só isso.
+Era sÃ³ isso.
 What're you reading, there?
-O que você está lendo aí?
+O que vocÃª estÃ¡ lendo aÃ­?
 Seen AJ anywhere?
 Achou o AJ?
 How're you feeling?
-Como você está se sentindo?
+Como vocÃª estÃ¡ se sentindo?
 See you around.
-Te vejo por aí.
+Te vejo por aÃ­.
 Have you seen the others?
-Você viu os outros?
+VocÃª viu os outros?
 Do you know if AJ's turned up yet?
-Você sabe se o AJ já apareceu?
+VocÃª sabe se o AJ jÃ¡ apareceu?
 What are you doing with that metal detector?
-O que está fazendo com esse detector de metais?
+O que estÃ¡ fazendo com esse detector de metais?
 How do you know the tomb's there?
-Como você sabe que o túmulo está lá?
+Como vocÃª sabe que o tÃºmulo estÃ¡ lÃ¡?
 Can I borrow your metal detector?
 Posso pegar o detector de metais emprestado?
 Finished with the metal detector yet?
-já terminou com o detector de metais?
+jÃ¡ terminou com o detector de metais?
 Are you the one who dug up half the lawn?
-Foi você que escavou metade do gramado?
+Foi vocÃª que escavou metade do gramado?
 How're you doing?
-Como está?
+Como estÃ¡?
 Someone brought my car into the back yard.
-Alguém trouxe meu carro pra dentro do quintal.
+AlguÃ©m trouxe meu carro pra dentro do quintal.
 What're you doing?
-O que está fazendo?
+O que estÃ¡ fazendo?
 Any clues on who did this?
 Alguma pista sobre quem fez isso?
 Well, catch you later.
 Bem, te encontro depois.
 Come on, Phil, none of us could possibly have killed AJ.
-Qual é, Phil, nenhum de nós poderia ter matado o AJ.
+Qual Ã©, Phil, nenhum de nÃ³s poderia ter matado o AJ.
 You know, your attitude could be the death of us.
 Sabe, sua atitude pode causar a morte de todos. 
 Feeling any better this morning?
-Se sentindo melhor essa manhã?
+Se sentindo melhor essa manhÃ£?
 Never mind.
-Deixa pra lá.
+Deixa pra lÃ¡.
 Could you go and wait for me in the library?
 Poderia esperar por mim na biblioteca?
 What do you think we should do next?
-o que você acha que devemos fazer em seguida?
+o que vocÃª acha que devemos fazer em seguida?
 Do you want to tag along with me?
-Você quer vir comigo?
+VocÃª quer vir comigo?
 Have you seen Philip and Simone?
-Você viu Philip e Simone?
+VocÃª viu Philip e Simone?
 Forget it.
-Esqueça.
+EsqueÃ§a.
 What have you done with my tie?
-O que você fez com minha gravata?
+O que vocÃª fez com minha gravata?
 Where's Jim?
-Onde está Jim?
+Onde estÃ¡ Jim?
 You're making a terrible mistake.
-Está cometendo um erro terrível.
+EstÃ¡ cometendo um erro terrÃ­vel.
 What makes you think I killed Philip, anyway?
 De qualquer modo, o que te faz pensar que eu matei Philip?
 He could be in terrible danger.
-Ele pode ser um terrível perigo.
+Ele pode ser um terrÃ­vel perigo.
 He knows that I'm innocent!
 Ele sabe que sou inocente!
 If you left him alone, he's already dead.
-Se você deixou ele sozinho, ele já morreu.
+Se vocÃª deixou ele sozinho, ele jÃ¡ morreu.
 The police will never get in here.
-A polícia nunca vai chegar aqui.
+A polÃ­cia nunca vai chegar aqui.
 The real killer's still on the loose!
-O verdadeiro assassino ainda está à solta!
+O verdadeiro assassino ainda estÃ¡ Ã  solta!
 Haven't you ever watched a horror movie?
-Você nunca assistiu um filme de terror?
+VocÃª nunca assistiu um filme de terror?
 The real killer tricked me!
 O verdadeiro assassino me enganou!
 I was possessed by the ghost!
-Eu estava possuído por um fantasma!
+Eu estava possuÃ­do por um fantasma!
 Philip tried to kill me first!
 Philip tentou me matar primeiro!
 Go touch the idol in the trophy room, you'll see I'm not lying.
-Vá e toque no ídolo na sala de troféis, e verá que não estou mentindo.
+VÃ¡ e toque no Ã­dolo na sala de trofÃ©is, e verÃ¡ que nÃ£o estou mentindo.
 Just go and have a look in the basement.
-apenas vá e dê uma olhada no porão.
+apenas vÃ¡ e dÃª uma olhada no porÃ£o.
 It possessed me just like it did when I killed AJ.
-fui possuído da mesma maneira quando matei AJ.
+fui possuÃ­do da mesma maneira quando matei AJ.
 It's talking to me right now...
-Está falando comigo agora mesmo...
+EstÃ¡ falando comigo agora mesmo...
 I'm delirious with guilt most of the time.
 Sono quasi costantemente fuori di me per il senso di colpa.
 I still think I can get rid of the voice, with your help.
@@ -3259,5 +3266,4 @@ Black magic book
 Libro di magia nera
 Gun
 Pistola
-
 
